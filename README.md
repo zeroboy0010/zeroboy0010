@@ -13,7 +13,7 @@ I have 2 years of experience participating in the Robocon Competition, where I d
 ## Projects
 
 ### Robocon 2022 & 2023
-- **Role**: Developer
+- **Role**: Programming
 - **Description**: Worked on various robotics projects, focusing on programming and electronic circuits. Implemented serial communication and used CAN bus protocol for control signal transmission.
 
 
