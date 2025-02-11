@@ -2,6 +2,9 @@
 
 Welcome to my GitHub profile! I am an Electrical Engineering graduate from the Institute of Technology of Cambodia, class of 2024, with a strong focus on robotics and embedded systems.
 
+## GitHub Stats
+![Kimhoir Na's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroboy0010&show_icons=true&theme=radical)
+
 ## About Me
 
 I have 2 years of experience participating in the Robocon Competition, where I developed skills in programming and electronic circuit design. My technical expertise includes:
@@ -22,8 +25,6 @@ I have 2 years of experience participating in the Robocon Competition, where I d
 - **Frameworks/Technologies**: ROS, ROS2, STM32CubeIDE, Pybullet
 - **Communication Protocols**: CAN bus, Mod Bus
 
-## GitHub Stats
-![Kimhoir Na's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroboy0010&show_icons=true&theme=radical)
 
 ## Contact
 
