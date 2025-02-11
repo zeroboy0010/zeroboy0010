@@ -22,7 +22,7 @@ I have 2 years of experience participating in the Robocon Competition, where I d
 ## Skills
 
 - **Languages**: C, C++, Python
-- **Frameworks/Technologies**: ROS, ROS2, STM32CubeIDE, Pybullet
+- **Frameworks/Technologies**: ROS, ROS2, STM32CubeIDE, Pybullet, ESP32 IDF
 - **Communication Protocols**: CAN bus, Mod Bus
 
 
